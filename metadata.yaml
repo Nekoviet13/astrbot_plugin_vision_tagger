@@ -1,0 +1,5 @@
+name: vision_tagger
+author: Nekoviet13
+description: 让机器人自主提取图片内容，并生成训练资料.txt
+version: 1.0.0
+repo: D:\NekoroLocal\AstrBotLauncher-0.3.0\AstrBot\data\plugins\astrbot_plugin_vision_tagger
